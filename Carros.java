@@ -1,6 +1,6 @@
 package com;
 
-public class Auto {
+public class Carros {
 	private int id;
 	private String nombre;
 	private String modelo;
@@ -8,7 +8,7 @@ public class Auto {
 
 	
 	
-	public Auto() {
+	public Carros() {
 		
 	}
 	public int getId() {
