@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.Scanner;
 
-public class Principal {
+public class Evaluacion {
 	public static void main(String[] args) {
 		ArrayList<Auto> productos = new ArrayList<Auto>();
 		Scanner sc = new Scanner(System.in);
