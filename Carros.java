@@ -37,18 +37,4 @@ public class Carros {
 	}
 	
 	
-public static void main(String[]args){
-	System.out.println(x: "Hola crystal");
-
-	Carros carros = new Carros();
-	carros.setNombre(nombre:"Jeep");
-	carros.setModelo(modelo:"2004");
-
-	Carros segundoCarro = new Carros();
-	segundoCarro.setNombre(nombre:"Ram Dodge")
-	segundoCarro.setModelo("2003")
-
-
-	carros.imprimirCarro();
-
 }
