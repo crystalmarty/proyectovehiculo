@@ -110,5 +110,4 @@ public class Evaluacion {
 		}while(lt);
 	}
 	
-	System.out.println("el carro se llama " + this.nombre);
 }
